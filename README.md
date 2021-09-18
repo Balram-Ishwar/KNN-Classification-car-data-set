@@ -1,7 +1,6 @@
 # KNN-Classification-car-data-set
-### Classifying whether a car is in Acceptable condition or not
+* Classifying whether a car is in Acceptable condition or not
 
-
-#### Cross validation for training and testing 
-#### KNeighborsClassifier for modelling 
-#### Preprocessing done through LabelEncoder
+1. Cross validation for training and testing 
+2. KNeighborsClassifier for modelling 
+3. Preprocessing done through LabelEncoder
